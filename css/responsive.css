@@ -1,0 +1,402 @@
+/* galaxy fold device */
+@media (min-width: 279px) and (max-width: 320px){
+    *{
+        padding: 0px;
+        margin: 0px;
+    }
+    .container{
+        width: 100%;
+        margin: 0px auto;
+    }
+    .col-4{
+        width: 100%;
+        float: left;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+
+    .header .logo{
+        text-align: center;
+    }
+    .nav-menu{
+        text-align: center;
+    }
+    .nav-menu li a {
+        font-size: 10px;
+        margin: 10px 7px 0px;
+    }
+    .banner{
+        padding: 35px 0px;
+    }
+    .banner h1{
+        font-size: 22px;
+        line-height: 1.2em;
+    }
+    .banner p{
+        font-size: 10px;
+        line-height: 1.7em;
+        margin: 1px 10px;
+    }
+    .banner img{
+        width: 80%;
+        transition: 0.75s;
+    }
+    .banner img:hover{
+        width: 80.5%;
+    }
+    .success{
+        width: 100%;
+        padding: 10px 0px 30px;
+    }
+    .left-text{
+        text-align: left;
+    }
+    .left-text h2{
+        font-size: 26px;
+        line-height: 1.2em;
+        margin: 0px 0px 0px 20px;
+    }
+    .left-text p{
+        font-size: 10px;
+        line-height: 1.7em;
+        margin: 1px 10px 10px 20px;
+    }
+    .right-text h2{
+        font-size: 26px;
+        line-height: 1.2em;
+    }
+    .inner-feature{
+        width: auto;
+        margin: 0px 15px 15px;
+    }
+    .footer{
+        margin: 10px 0px 0px 0px;
+    }
+    .footer p{
+        font-size: 11px;
+    }
+
+    .yellow {
+        width: 120px;
+        height: 40px;
+        font-size: 10px;
+        right: -115px;
+    }
+    .yellow:hover {
+        width: 114px;
+        height: 49px;
+        padding: 1px;
+    }
+    .fb{
+        width: 170px;
+    }
+    .insta{
+        width: 166px;
+    }
+    .twt{
+        width: 202px;
+    }
+    .top{
+        width: 33px;
+        height: 33px;
+        top: 87%;
+    }
+}
+
+
+
+/* most mobile device */
+@media (min-width: 320px) and (max-width: 481px){
+    *{
+        padding: 0px;
+        margin: 0px;
+    }
+    .container{
+        width: 100%;
+        margin: 0px auto;
+    }
+    .col-4{
+        width: 100%;
+        float: left;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+
+    .header .logo{
+        text-align: center;
+    }
+    .nav-menu{
+        text-align: center;
+    }
+    .nav-menu li a{
+        font-size: 11px;
+    }
+    .banner{
+        padding: 35px 0px;
+    }
+    .banner h1{
+        font-size: 25px;
+        line-height: 1.2em;
+    }
+    .banner p{
+        font-size: 11px;
+        line-height: 1.7em;
+        margin: 1px 10px;
+    }
+    .banner img{
+        width: 80%;
+        transition: 0.75s;
+    }
+    .banner img:hover{
+        width: 80.5%;
+    }
+    .success{
+        width: 100%;
+        padding: 10px 0px 30px;
+    }
+    .left-text{
+        text-align: left;
+    }
+    .left-text h2{
+        font-size: 28px;
+        line-height: 1.2em;
+        margin: 0px 0px 0px 20px;
+    }
+    .left-text p{
+        font-size: 11px;
+        line-height: 1.7em;
+        margin: 1px 10px 10px 20px;
+    }
+    .right-text h2{
+        font-size: 28px;
+        line-height: 1.2em;
+    }
+    .inner-feature{
+        width: auto;
+        margin: 0px 15px 15px;
+    }
+    .footer{
+        margin: 10px 0px 0px 0px;
+    }
+    .footer p{
+        font-size: 12px;
+    }
+
+    .yellow {
+        width: 120px;
+        height: 40px;
+        font-size: 10px;
+        right: -115px;
+    }
+    .yellow:hover {
+        width: 114px;
+        height: 49px;
+        padding: 1px;
+    }
+    .fb{
+        width: 170px;
+    }
+    .insta{
+        width: 166px;
+    }
+    .twt{
+        width: 202px;
+    }
+    .top{
+        width: 35px;
+        height: 35px;
+        top: 87%;
+    }
+}
+
+
+
+/* high mobile low tab device */
+@media (min-width: 481px) and (max-width: 767.9px){
+    *{
+        padding: 0px;
+        margin: 0px;
+    }
+    .container{
+        width: 100%;
+        margin: 0px auto;
+    }
+    .col-4{
+        width: 100%;
+        float: left;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+
+    .header .logo{
+        text-align: center;
+    }
+    .nav-menu{
+        text-align: center;
+    }
+    .nav-menu li a{
+        font-size: 13px;
+    }
+    .banner{
+        padding: 45px 0px;
+    }
+    .banner h1{
+        font-size: 30px;
+        line-height: 1.2em;
+    }
+    .banner p{
+        font-size: 13px;
+        line-height: 1.7em;
+        margin: 1px 10px;
+    }
+    .banner img{
+        width: 80%;
+        transition: 0.75s;
+    }
+    .banner img:hover{
+        width: 80.5%;
+    }
+    .success{
+        width: 100%;
+        padding: 10px 0px 40px;
+    }
+    .left-text{
+        text-align: left;
+    }
+    .left-text h2{
+        font-size: 30px;
+        line-height: 1.2em;
+        margin: 0px 0px 0px 20px;
+    }
+    .left-text p{
+        font-size: 13px;
+        line-height: 1.7em;
+        margin: 1px 10px 10px 20px;
+    }
+    .right-text h2{
+        font-size: 30px;
+        line-height: 1.2em;
+    }
+    .inner-feature{
+        width: auto;
+        margin: 0px 15px 15px;
+    }
+    .footer{
+        margin: 20px 0px 0px 0px;
+    }
+    .footer p{
+        font-size: 13px;
+    }
+
+    .yellow {
+        width: 120px;
+        height: 40px;
+        font-size: 10px;
+        right: -115px;
+    }
+    .yellow:hover {
+        width: 114px;
+        height: 49px;
+        padding: 1px;
+    }
+    .fb{
+        width: 170px;
+    }
+    .insta{
+        width: 166px;
+    }
+    .twt{
+        width: 202px;
+    }
+    .top{
+        width: 40px;
+        height: 40px;
+        top: 87%;
+    }
+}
+
+
+/* most tablet,notebook device */
+@media (min-width: 767.99px) and (max-width: 1024px){
+    *{
+        padding: 0px;
+        margin: 0px;
+    }
+    .container{
+        width: 95%;
+        margin: 0px auto;
+    }
+    .col-4{
+        width: 100%;
+        float: left;
+    }
+    
+    .nav-menu li a{
+        font-size: 13px;
+    }
+    .banner{
+        padding: 50px 0px;
+    }
+    .banner h1{
+        font-size: 45px;
+        line-height: 1.2em;
+    }
+    .banner p{
+        font-size: 14px;
+        line-height: 1.7em;
+        margin: 1px 15px;
+    }
+    .banner img{
+        width: 80%;
+        transition: 0.75s;
+    }
+    .banner img:hover{
+        width: 80.5%;
+    }
+    .success{
+        width: 100%;
+        padding: 10px 0px 50px;
+    }
+    .left-text h2{
+        font-size: 45px;
+        line-height: 1.2em;
+    }
+    .left-text p{
+        font-size: 14px;
+        line-height: 1.7em;
+        margin: 1px 20px 10px 10px;
+    }
+    .right-text h2{
+        font-size: 45px;
+        line-height: 1.2em;
+        margin: 1px 15px 40px 15px;
+    }
+    .inner-feature{
+        width: auto;
+        margin: 0px 15px 15px;
+    }
+    .footer{
+        margin: 30px 0px 0px 0px;
+    }
+    .footer p{
+        font-size: 14px;
+    }
+}
+
+/* extra */
+@media (min-width: 1024.1px) and (max-width: 1139.9px){
+    *{
+        padding: 0px;
+        margin: 0px;
+    }
+    .container{
+        width: 90%;
+        margin: 0px auto;
+    }
+}
